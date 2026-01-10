@@ -1,2 +1,2 @@
 # ECE470
-AI Project
+A genetic algorithm for optimizing garden space and water requirements. 
